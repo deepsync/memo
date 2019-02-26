@@ -1,3 +1,7 @@
+# 場所
+
+https://deepsync.github.io/memo/
+
 # 最初のページ
 
 ここに色々書きます。
