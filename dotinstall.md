@@ -3,7 +3,7 @@
 - [ローカル環境の構築](https://dotinstall.com/lessons/basic_localdev_win_v2)
 
 
-- js
+js
 
 - [JavaScriptでおみくじを作ろう (全8回)](https://dotinstall.com/lessons/omikuji_js_v4)
 - [p5.jsでクリエイティブコーディングを体験しよう (全10回)](https://dotinstall.com/lessons/creativecoding_intro_p5js)
@@ -22,9 +22,10 @@
 - [AngularJS入門 (全12回)](https://dotinstall.com/lessons/basic_angularjs)
 - [AngularJSで作るToDoアプリ (全4回)](https://dotinstall.com/lessons/todo_angularjs)
 - [AngularJSで作るツイッター検索 (全4回)](https://dotinstall.com/lessons/tw_search_angularjs)
-- 
+ 
 
-- html 
+html 
+
 - [実践！ウェブサイトを作ろう (全16回)](https://dotinstall.com/lessons/website_html_v3)
 - [jQuery入門 (全20回)](https://dotinstall.com/lessons/basic_jquery_v2)
 - [CSSで吹き出しを作ろう (全8回)](https://dotinstall.com/lessons/balloon_css)
@@ -34,7 +35,8 @@
 - 
 
 
-- othres
+othres
+
 - [AWS Cloud9入門 (全11回)](https://dotinstall.com/lessons/basic_c9_v2)
 - [Redis入門 (全14回)](https://dotinstall.com/lessons/basic_redis)
 - [Excel VBA入門 (全19回)](https://dotinstall.com/lessons/basic_excel_vba)
@@ -49,7 +51,7 @@
 - [Jekyll入門 (全11回)](https://dotinstall.com/lessons/basic_jekyll)
 - 
 
-- node.js
+node.js
 
 - [Node.js入門 (全16回)](https://dotinstall.com/lessons/basic_nodejs)
 - [textlint入門 (全11回)](https://dotinstall.com/lessons/basic_textlint)
