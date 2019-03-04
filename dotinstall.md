@@ -13,24 +13,13 @@ js
 - [CSS変数入門 (全8回)](https://dotinstall.com/lessons/basic_css_variables)
 - [Web Storage入門 (全8回)](https://dotinstall.com/lessons/basic_webstorage)
 
-- [Font Awesome 5入門 (全13回)](https://dotinstall.com/lessons/basic_fontawesome_v2)
 - [Web FontsでカウントダウンQ!! (全7回)](https://dotinstall.com/lessons/countdownq_web_fonts)
 - [p5.js入門 (全14回)](https://dotinstall.com/lessons/basic_p5js)
 - [p5.jsでクリエイティブコーディングを体験しよう (全10回)](https://dotinstall.com/lessons/creativecoding_intro_p5js)
 - [AngularJS入門 (全12回)](https://dotinstall.com/lessons/basic_angularjs)
 - [AngularJSで作るToDoアプリ (全4回)](https://dotinstall.com/lessons/todo_angularjs)
 - [AngularJSで作るツイッター検索 (全4回)](https://dotinstall.com/lessons/tw_search_angularjs)
- 
-
-html 
-
-- [実践！ウェブサイトを作ろう (全16回)](https://dotinstall.com/lessons/website_html_v3)
-- [jQuery入門 (全20回)](https://dotinstall.com/lessons/basic_jquery_v2)
-- [CSSで吹き出しを作ろう (全8回)](https://dotinstall.com/lessons/balloon_css)
-- [Emmet入門 (全15回)](https://dotinstall.com/lessons/basic_emmet_v2)
-- [Sass/SCSS入門 (全15回)](https://dotinstall.com/lessons/basic_sass)
-- [LESS入門 (全8回)](https://dotinstall.com/lessons/basic_less_v2)
-- 
+-
 
 node.js
 
@@ -43,6 +32,19 @@ node.js
 - [Firebaseでウェブサイトを公開してみよう (全9回)](https://dotinstall.com/lessons/hosting_firebase)
 - 
 
+
+html 
+
+- [実践！ウェブサイトを作ろう (全16回)](https://dotinstall.com/lessons/website_html_v3)
+- [jQuery入門 (全20回)](https://dotinstall.com/lessons/basic_jquery_v2)
+- [CSSで吹き出しを作ろう (全8回)](https://dotinstall.com/lessons/balloon_css)
+- [Emmet入門 (全15回)](https://dotinstall.com/lessons/basic_emmet_v2)
+- [Sass/SCSS入門 (全15回)](https://dotinstall.com/lessons/basic_sass)
+- [LESS入門 (全8回)](https://dotinstall.com/lessons/basic_less_v2)
+- [Font Awesome 5入門 (全13回)](https://dotinstall.com/lessons/basic_fontawesome_v2)
+- [Google Fonts入門 (全5回)](https://dotinstall.com/lessons/basic_google_web_fonts_v2)
+
+
 othres
 
 - [AWS Cloud9入門 (全11回)](https://dotinstall.com/lessons/basic_c9_v2)
@@ -52,7 +54,6 @@ othres
 - [Chrome Developer Tools入門 (全10回)](https://dotinstall.com/lessons/basic_chrome_dev_v2)
 - [MongoDB入門 (全15回)](https://dotinstall.com/lessons/basic_mongodb_v3)
 - [Ruby on Rails 5入門 (全28回)](https://dotinstall.com/lessons/basic_rails_v3)
-- [Google Fonts入門 (全5回)](https://dotinstall.com/lessons/basic_google_web_fonts_v2)
 - [Google Maps API入門 (全17回)](https://dotinstall.com/lessons/basic_google_maps_v2)
 - [Heroku入門 (全12回)](https://dotinstall.com/lessons/basic_heroku)
 - [Docker入門 (全11回)](https://dotinstall.com/lessons/basic_docker)
